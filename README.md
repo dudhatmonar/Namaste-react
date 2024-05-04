@@ -1,1 +1,1 @@
-# This is React first episode
+echo "# Namaste-react"
